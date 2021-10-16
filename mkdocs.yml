@@ -3,8 +3,3 @@ theme: readthedocs
 markdown_extensions:
     - toc:
         permalink: True
-plugins:
-  - search:
-      lang:
-        - en
-        - ch
