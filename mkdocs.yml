@@ -1,0 +1,5 @@
+site_name: docs-as-code-example-readthedocs
+theme: readthedocs
+markdown_extensions:
+    - toc:
+        permalink: True
