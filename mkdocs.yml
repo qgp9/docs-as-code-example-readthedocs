@@ -5,4 +5,6 @@ markdown_extensions:
         permalink: True
 plugins:
   - search:
-      lang: en
+      lang:
+        - en
+        - ch
