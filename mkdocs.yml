@@ -5,4 +5,4 @@ markdown_extensions:
         permalink: True
 plugins:
   - search:
-      lang: ko
+      lang: ja
